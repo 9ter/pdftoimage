@@ -8,7 +8,7 @@ use Spatie\PdfToImage\Pdf; // ต้องเป็นที่ด้านบ�
 
 // เชื่อมต่อฐานข้อมูล MySQL
 $servername = "localhost";
-$username = "root";
+$username = "Palamad007";
 $password = "";
 $dbname = "pdf_to_images";
 
