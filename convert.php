@@ -3,7 +3,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 use Spatie\PdfToImage\Pdf;
 
-$pdf = new Pdf('C:\xampp\htdocs\pdftoimage\test.pdf');
+$pdf = new Pdf('test.pdf');
 
 $number = $pdf->getNumberOfPages(); // คืนค่าจำนวนเต็ม
 
